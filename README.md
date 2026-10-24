@@ -1,5 +1,3 @@
-## Abhishek Chand
-
 ```python
 class SoftwareEngineer:
 
